@@ -1,0 +1,10 @@
+// update node version
+nvm install v18.17.0
+
+// install project
+npx create-next-app@latest
+or:
+yarn create next-app --typescript
+
+// run proj: cd to project folder and run:
+yarn dev
